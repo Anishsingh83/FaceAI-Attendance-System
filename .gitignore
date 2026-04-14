@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Face data — Privacy
+dataset/
+encodings/face_encodings.pkl
+
+# User data — Privacy
+data/users.csv
+data/attendance.csv
+data/logs.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
