@@ -603,6 +603,63 @@ class MainWindow(QMainWindow):
             new_window.show()
             # Keep reference so it doesn't get garbage collected
             QApplication.instance().main_window = new_window
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     # ══════════════════════════════════════════════════════════════════════════
     # Shared helpers
